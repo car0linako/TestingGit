@@ -2,5 +2,5 @@
 Hey Caro.
 Hab mal nen Branch erstellt.
 
-gro�-artig
+## Großartig
 Danke für deine Geduld.
